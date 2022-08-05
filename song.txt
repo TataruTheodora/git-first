@@ -8,5 +8,3 @@ new
 new new new
 
 aaaaaa
-bbbbbb
-cccccc
